@@ -87,11 +87,10 @@ I'm **Ariss Benabbas**, an enthusiastic developer passionate about technology, c
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/ariss-benabbas-6657a2232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariss benabbas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ariss-b-6657a2232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariss benabbas" height="30" width="40" /></a>
 <a href="https://fb.com/arris.madrid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arris.madrid" height="30" width="40" /></a>
 <a href="https://instagram.com/ariss_benabb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariss_benabb27" height="30" width="40" /></a>
 </p>
-
 #- ⚡ Fun fact 
 **I once debugged a bug for 4 hours… it was a missing semicolon. 😅 I also believe clean code is ✨ therapeutic.**
 
